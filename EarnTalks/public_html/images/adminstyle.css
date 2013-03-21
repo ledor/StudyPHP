@@ -1,0 +1,341 @@
+body {
+	/*background-image:url('images/background.gif');*/
+	background-position: center;
+	background-color:  #1E77D3;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+     }
+tr.title{
+	height:30px;
+	/*background-color:#fff3cb;*/
+	background-image:url(images/lmtop.gif);
+}
+.title2{
+	height:30px;
+	background-color:#fff3cb;
+	
+}
+
+th {
+	height:20px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;
+}
+th.title {
+	/*background-image:url(images/lmtop.gif);*/
+	background-color:#fff3cb;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #0c4b7b;
+}
+th.title_box{
+
+	background-color:#FDDB94;
+	background-repeat:repeat-x;
+	border:1px solid #adc5ed;
+	padding:1px  0px  0px  9px; height:20px; width:100%;
+	background-image:url(images/lmtop2.gif);
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+
+td   {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+     }
+td.welcome {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#003300;
+}
+td.adtop{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:#fff3cb;
+	font-size:11px;
+	color:white;
+}
+td.ad{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+}
+a    {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	/*font-size: 11px;*/
+	color: #003311;
+	text-decoration:none;
+     }
+a:visited, a:active {
+	color: #003311;
+     }  
+a:hover{
+	color:#006633;
+	text-decoration:underline;
+}
+h3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #000000;
+     }
+a.newlistingslink {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #fff3cb;
+     }
+ 
+a.newlistingslink:visited, a.newlistingslink:active {
+	color: #fff3cb;
+     }  
+ a.newlistingslink:hover{
+ 	color:#ff0000;
+	text-decoration:underline;
+ }
+
+.newlistings {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+     }
+.newlistingsdate {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	font-weight: bold;
+     }
+.news {
+	text-align: justify;
+     }
+.newsspons {
+	text-align: justify;
+	background-color: #CEDEFA; 
+     }
+.newsdate {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #999999;
+	font-style: italic;
+     }
+
+.smallnews {
+	text-align: justify;
+	background:#eaf6fb;
+     }
+.smallnewsspons {
+	text-align: justify;
+	background-color: #d7e99a; 
+     }
+.smallnewstitle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	font-weight: bold;
+     }
+.smallnewstext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+     }
+.smallnewsdate {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	color: #999999;
+	font-style: italic;
+     }
+
+
+form {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+     }
+td.toplink{
+	color: white;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-decoration: none;
+}
+td.groupname{
+	color:white;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight:bolder;
+	text-decoration: none;
+}
+
+span.toplink{
+	color: white;
+}
+a.toplink, a.toplink:visited, a.toplink:active {
+	color: white;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+}
+a.toplink:hover{
+	color:white;
+	text-decoration:underline;
+}
+
+a.toplink1,a.toplink1:visited, a.toplink1:active {
+	color: white;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: underline;
+}
+a.toplink1:hover{
+	color:white;
+	text-decoration:none;
+}
+.forCopyright, .forCopyright:hover, .forCopyright:visited, .forCopyright:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	background-color:#3990d3;
+	color: #FFFFFF;
+	height: 25px;
+}
+.DISCLAIMER {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;
+    background-color: #3990d3;
+	padding-left:5px;
+	padding-right:5px;
+	text-align: justify;
+     }
+
+.menutxt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+.bgcolor {
+	background-color: #BCD89F
+       }
+.rightmenu {
+	background-color: #FFFFFF
+       }
+.line {
+background-color:#3990d3;
+	/*background-image: url(images/bg-vertiline.gif);*/
+background-repeat: repeat-y;
+width: 1px;
+       }
+.bg-vertline {
+background-image: url(images/bg-vertiline.gif);
+background-repeat: repeat-y;
+width: 1px;
+}
+.bg-horline {
+background-image: url(images/bg-horiline.gif);
+width: 1px;
+background-repeat: repeat-x;
+  }
+.bg-menu {
+	background-color: #3990d3;
+	background-repeat: repeat-x;
+	height: 30px;
+}
+
+.newlistingsdatetitle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;
+    background-color: #3990d3;
+}
+.detailsbg1 {
+	background-color: #FFFFFF;
+      }
+.detailsbg2 {
+	background-color: #FFECB0;
+      }
+.inpts {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	background-color: #CEDEFA;
+	border: 1px inset #8cc244;
+	border-color: #3990d3;
+	border-style: solid;
+}
+.sbmt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	background-color: #CEDEFA;
+	border: 1px outset #3990d3;
+}
+a.hlp, a.hlp:active, a.hlp:visited, a.hlp:hover { 
+	font-family: verdana;
+	font-size: 11px;
+	color: black;
+	text-decoration: none;
+	cursor: help;
+      }
+.smalllink {
+font-size: 10px;
+text-decoration:none;
+}
+.adblack {background-color:#3990d3}
+.adlight {background-color: #eaf6fb; text-align: left}
+a.adlink, a.adlink:hover, a.adlink:visited, a.adlink:active {color: #006633; font-size: 11px; text-decoration: none}
+.adtext  {color: #000000; font-size: 10px}
+
+.expiresdate {
+	color: #999999;
+	font-size: 10px;
+      }
+.permiumdark {
+	background-color: #3990d3;
+      }
+.permiumlite {
+	/*background-image:url(images/listback_premium.gif);*/
+	background-color: #9dda4c;
+      }
+.normaldark {
+	background-color: #3990d3;
+      }
+.normallite {
+	/*background-image:url(images/listback_normal.gif);*/
+	background-color: #c7e954;
+      }
+.trialdark {
+	background-color: #3990d3;
+      }
+.triallite {
+	/*background-image:url(images/listback_trail.gif);*/
+	background-color: #d7e99a;
+      }
+.freedark {
+	background-color: #3990d3;
+      }
+.freelite {
+	/*background-image:url(images/listback_free.gif);*/
+	background-color: #CEDEFA;
+      }
+.gamesdark {
+	background-color: #3990d3;
+      }
+.gameslite {
+	/*background-image:url(images/listback_games.gif);*/
+	background-color: #d7e99a;
+      }
+.scamdark {
+	background-color: #3990d3;
+      }
+.scamlite {
+	/*background-image:url(images/listback_scam.gif);*/
+	background-color: #FFEFEF;
+      }
+.closeddark {
+	background-color: #3990d3;
+      }
+.closedlite {
+	/*background-image:url(images/listback_closed.gif);*/
+	background-color: #DBDBDB;
+      }
+

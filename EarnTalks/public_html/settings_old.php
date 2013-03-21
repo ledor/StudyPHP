@@ -1,0 +1,52 @@
+<?/*
+	
+site_name	www.earntalks.com
+site_url	http://www.earntalks.com
+site_url_alt	http://www.earntalks.com
+site_logo_url	images/logo.png
+system_email	earntalks.com@gmail.com
+admin_email	earntalks.com@gmail.com
+hostname	mysql5.000webhost.com
+database	a6652352_et
+db_login	a6652352_et
+db_pass	andrea23
+admin_lr_account	U8529781
+admin_pm_account	U1817689
+admin_pm_name	EarnTalks.com
+admin_ym_account	freelancer0723
+ecurrency	1
+alexa	1
+admin_password	andrea23
+payments	LibertyReserve,PerfectMoney,C-Gold,Webmoney,E-Gold,SolidTrustPay,StrictPay,ECUMoney,GlobalDigitalPay,V-Money,Paypal,Pecunix,AlertPay,EuroPay,WesternUnion,EVOWall,ssl,ddos
+textads_box	0
+subscribe_box	0
+logo_box	0
+newlistings_box	1
+paysystems_box	1
+partners_box	1
+news_box	1
+last_news_count	6
+listing_confirmation_require	0
+notify_about_addition	1
+vote_confirmation_require	0
+new_for_days	10
+new_page_for_days	100
+traffic_count_days	7
+admin_login	EarnTalks
+image_bg_color	fffff2
+image_name_bg_color	#FFFFFF
+image_text_color	#000000
+demomode	0
+license	
+premiummonitorfees	50
+premiumlistingfees	10
+normalmonitorfees	20
+normallistingfees	8
+trialmonitorfees	10
+triallistingfees	5
+autosurfmonitorfees	50
+autosurflistingfees	10
+ptcmonitorfees	5
+ptclistingfees	5
+alex	1
+*/?>

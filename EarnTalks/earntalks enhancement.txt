@@ -1,0 +1,18 @@
+to be added funstion:
+
+setting of sidebars position
+manage partner links
+monitoring fees
+text ads
+
+$adtype
+
+<? if $adtype == 'rotatingbannerads' echo 'checked="checked"'; ?> 
+<? if $adtype == 'specialbannerads' echo 'checked="checked"'; ?>
+<? if $adtype == 'normalbannerads' echo 'checked="checked"'; ?> 
+<? if $adtype == 'textads' echo 'checked="checked"'; ?> 
+
+
+
+
+

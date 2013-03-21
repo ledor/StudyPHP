@@ -1,0 +1,165 @@
+HTML18 {
+	OVERFLOW-X: auto
+}
+
+
+TH18 {
+	TEXT-ALIGN: left
+}
+IMG18 {
+	BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; VERTICAL-ALIGN: middle; BORDER-LEFT-WIDTH: 0px
+}
+
+#bottom_bar18 {
+	Z-INDEX: 20; POSITION: fixed; MIN-WIDTH: 678px; TEXT-ALIGN: left; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 100%; BOTTOM: 0px; PADDING-RIGHT: 30px; BACKGROUND: #ff3c3c; HEIGHT: 30px; COLOR: #EAA; BORDER-TOP: #45627c 1px solid; PADDING-TOP: 0px; LEFT: 0px;RIGHT: 0px; opacity: 0.9
+}
+#goto_top18 {
+	POSITION: relative; FLOAT: right; TOP: 6px
+}
+#global18 {
+	MIN-WIDTH: 999px; PADDING-BOTTOM: 31px; MARGIN: 0px auto; PADDING-LEFT: 0px; WIDTH: 90%; PADDING-RIGHT: 0px; PADDING-TOP: 31px
+}
+.container18 {
+	TEXT-ALIGN: left; MARGIN: 0px auto; BACKGROUND: #eaeaea
+}
+A18 {
+	FLOAT: right
+}
+DIV18 {
+	FLOAT: right
+}
+#nav18 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; FLOAT: left; FONT-SIZE: 13px; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+#nav18 UL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#nav18 LI {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-TOP: 0px
+}
+#nav18 LI A:link {
+	PADDING-BOTTOM: 9px; PADDING-LEFT: 11px; PADDING-RIGHT: 11px; BACKGROUND: #979ba0; FLOAT: left; COLOR: #31363d; BORDER-RIGHT: #a6abb0 1px solid; TEXT-DECORATION: none; PADDING-TOP: 9px
+}
+#nav18 LI A:active {
+	PADDING-BOTTOM: 9px; PADDING-LEFT: 11px; PADDING-RIGHT: 11px; BACKGROUND: #979ba0; FLOAT: left; COLOR: #31363d; BORDER-RIGHT: #a6abb0 1px solid; TEXT-DECORATION: none; PADDING-TOP: 9px
+}
+#nav18 LI A:visited {
+	PADDING-BOTTOM: 9px; PADDING-LEFT: 11px; PADDING-RIGHT: 11px; BACKGROUND: #979ba0; FLOAT: left; COLOR: #31363d; BORDER-RIGHT: #a6abb0 1px solid; TEXT-DECORATION: none; PADDING-TOP: 9px
+}
+#nav18 LI A:hover {
+	PADDING-BOTTOM: 9px; PADDING-LEFT: 11px; PADDING-RIGHT: 11px; BACKGROUND: #979ba0; FLOAT: left; COLOR: #31363d; BORDER-RIGHT: #a6abb0 1px solid; TEXT-DECORATION: none; PADDING-TOP: 9px
+}
+#nav18 LI A:hover {
+	BACKGROUND: #c5c7ca; COLOR: #000
+}
+#nav18 LI A.current:link {
+	BACKGROUND: #c5c7ca; COLOR: #000
+}
+#nav18 LI A.current:active {
+	BACKGROUND: #c5c7ca; COLOR: #000
+}
+#nav18 LI A.current:visited {
+	BACKGROUND: #c5c7ca; COLOR: #000
+}
+#nav18 LI A.current:hover {
+	BACKGROUND: #c5c7ca; COLOR: #000
+}
+.menu_floating {
+	POSITION: relative; BORDER-LEFT: #45627c 1px solid; MARGIN: 0px auto; WIDTH: 678px; FONT-FAMILY: verdana, arial, sans-serif; COLOR: #000000; HEIGHT: 30px; FONT-SIZE: 11px
+}
+.menu_floating UL LI A {
+	TEXT-ALIGN: center; LINE-HEIGHT: 30px; PADDING-LEFT: 10px; WIDTH: auto; PADDING-RIGHT: 10px; DISPLAY: block; BACKGROUND: #ff3c3c; HEIGHT: 30px; COLOR: #000; FONT-SIZE: 11px; FONT-WEIGHT: bold; BORDER-RIGHT: #45627c 1px solid; TEXT-DECORATION: none
+}
+.menu_floating_floating UL LI A:visited {
+	TEXT-ALIGN: center; LINE-HEIGHT: 30px; PADDING-LEFT: 10px; WIDTH: auto; PADDING-RIGHT: 10px; DISPLAY: block; BACKGROUND: #ff3c3c; HEIGHT: 30px; COLOR: #000; FONT-SIZE: 11px; FONT-WEIGHT: bold; BORDER-RIGHT: #45627c 1px solid; TEXT-DECORATION: none
+}
+.menu_floating UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.menu_floating UL LI {
+	POSITION: relative; FLOAT: left
+}
+.menu_floating UL LI UL {
+	POSITION: absolute; VISIBILITY: hidden
+}
+.menu_floating TABLE {
+	PADDING-BOTTOM: 0px; MARGIN: -1px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-COLLAPSE: collapse; FONT-SIZE: 1em; PADDING-TOP: 0px
+}
+.menu_floating UL LI:hover A {
+	BACKGROUND: #8ea2b4; COLOR: #000
+}
+.menu_floating UL LI A:hover {
+	BACKGROUND: #8ea2b4; COLOR: #000
+}
+.menu_floating UL LI:hover UL {
+	BORDER-BOTTOM: #45627c 1px solid; BORDER-LEFT: #45627c 1px solid; BOTTOM: 30px; VISIBILITY: visible; BORDER-TOP: #45627c 1px solid; BORDER-RIGHT: #45627c 1px solid; LEFT: 0px
+}
+.menu_floating UL LI A:hover UL {
+	BORDER-BOTTOM: #45627c 1px solid; BORDER-LEFT: #45627c 1px solid; BOTTOM: 30px; VISIBILITY: visible; BORDER-TOP: #45627c 1px solid; BORDER-RIGHT: #45627c 1px solid; LEFT: 0px
+}
+.menu_floating UL LI:hover UL LI A.sub {
+	BACKGROUND: #ff3c3c; COLOR: #000
+}
+.menu_floating UL LI A:hover UL LI A.sub {
+	BACKGROUND: #ff3c3c; COLOR: #000
+}
+.menu_floating UL LI:hover UL LI {
+	WIDTH: 199px; DISPLAY: block; BACKGROUND: #ff3c3c; COLOR: #000; CLEAR: both
+}
+.menu_floating UL LI A:hover UL LI {
+	WIDTH: 199px; DISPLAY: block; BACKGROUND: #ff3c3c; COLOR: #000; CLEAR: both
+}
+.menu_floating UL LI:hover UL LI:hover A.sub {
+	BACKGROUND: #8ea2b4; COLOR: #000
+}
+.menu_floating UL LI A:hover UL LI A.sub:hover {
+	BACKGROUND: #8ea2b4; COLOR: #000
+}
+.menu_floating UL LI:hover UL LI UL {
+	POSITION: absolute; VISIBILITY: hidden
+}
+.menu_floating UL LI A:hover UL LI A UL {
+	POSITION: absolute; VISIBILITY: hidden
+}
+.menu_floating UL LI:hover UL LI A {
+	TEXT-ALIGN: left; PADDING-LEFT: 10px; WIDTH: 179px; DISPLAY: block; BACKGROUND: #ff3c3c; COLOR: #000
+}
+.menu_floating UL LI A:hover UL LI A {
+	TEXT-ALIGN: left; PADDING-LEFT: 10px; WIDTH: 179px; DISPLAY: block; BACKGROUND: #ff3c3c; COLOR: #000
+}
+.menu_floating UL LI:hover UL LI A:hover {
+	BACKGROUND: #8ea2b4; COLOR: #000
+}
+.menu_floating UL LI A:hover UL LI A:hover {
+	BACKGROUND: #8ea2b4; COLOR: #000
+}
+.menu_floating UL LI:hover UL LI:hover UL {
+	BOTTOM: 0px; VISIBILITY: visible; LEFT: 190px
+}
+.menu_floating UL LI A:hover UL LI A:hover UL {
+	BOTTOM: 0px; VISIBILITY: visible; LEFT: 190px
+}
+.menu_floating UL LI:hover UL LI:hover UL LI A {
+	TEXT-ALIGN: left; BACKGROUND: #ff3c3c; COLOR: #000
+}
+.menu_floating UL LI A:hover UL LI A:hover UL LI A {
+	TEXT-ALIGN: left; BACKGROUND: #ff3c3c; COLOR: #000
+}
+.menu_floating UL LI:hover UL LI:hover UL LI A:hover {
+	BACKGROUND: #8ea2b4; COLOR: #000
+}
+.menu_floating UL LI A:hover UL LI A:hover UL LI A:hover {
+	BACKGROUND: #8ea2b4; COLOR: #000
+}
+.menu_floating UL LI:hover UL.leftmenu {
+	LEFT: -105px
+}
+.menu_floating UL LI A:hover UL.leftmenu {
+	LEFT: -105px
+}
+.menu_floating UL LI:hover UL LI:hover UL.leftmenu {
+	WIDTH: 209px; LEFT: -210px
+}
+.menu_floating UL LI A:hover UL LI A:hover UL.leftmenu {
+	WIDTH: 209px; LEFT: -210px
+}
